@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "AdKraken"
-include ':app'
+include(":app")
